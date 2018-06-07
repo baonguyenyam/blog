@@ -1,14 +1,31 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: page.lang | default: 'en' }}">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% include head.html %}
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <body>
+    <link rel="stylesheet" href="{{ "/vendor/css/bootstrap.min.css " | absolute_url }}">
+    <link rel="stylesheet" href="{{ "/vendor/css/fontawesome-all.min.css " | absolute_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css " | absolute_url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}"> {% feed_meta %}
+</head>
+
+<body>
 
     <main class="main" aria-label="Content">
-      {{ content }}
+        {{ content }}
     </main>
 
-  </body>
+<script type="text/javascript" src="{{ "/vendor/js/jquery.slim.min.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/vendor/js/popper.min.js " | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/vendor/js/bootstrap.min.js " | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/vendor/js/app.js" | absolute_url }}"></script>
+
+
+</body>
 
 </html>
