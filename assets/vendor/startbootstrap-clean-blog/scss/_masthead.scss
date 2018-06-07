@@ -35,7 +35,7 @@ header.masthead {
     .subheading {
       font-size: 24px;
       font-weight: 300;
-      line-height: 1.1;
+      line-height: 1.5;
       display: block;
       margin: 10px 0 0;
       @include sans-serif-font;
@@ -52,7 +52,7 @@ header.masthead {
     }
     .meta,
     .subheading {
-      line-height: 1.1;
+      line-height: 1.5;
       display: block;
     }
     .subheading {
