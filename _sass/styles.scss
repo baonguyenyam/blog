@@ -1,2 +1,18 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+.single {
+	header.masthead {
+		margin-bottom: 0;
+		height: 100vh;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		.page-heading{
+			padding: 0;
+			a{
+				text-decoration: none;
+			}
+		}
+	}
+}

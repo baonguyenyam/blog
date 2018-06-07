@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 ---
 
 <!-- Page Header -->
@@ -15,7 +15,14 @@ layout: default
           <div class="page-heading">
             <h1>{{ site.title }}</h1>
             {% if site.description %}
-              <span class="subheading">{{ site.description }}</span>
+<p class="subheading">Tôi là Bảo Nguyên hiện là Full-Stack Developer tại nhiều công ty Nhật, USA, Singapore... Tôi cũng là giảng viên tại FPT.
+  Tôi có hơn 8 năm làm việc trên Single Page Applications (SPA), ứng dụng mobile và website. Tôi có nhiều kinh nghiệm về
+  Design, HTML, SASS, PUG, Ionic, Angular, NodeJS, several version control systems... là tác giả của nhiều sản phẩm phần
+  mềm IT tại VN.
+</p>
+<p>
+<a href="https://baonguyenyam.github.io/cv/" target="_blank" class="btn btn-warning pl-5 pr-5">Hồ sơ cá nhân</a>
+</p>
             {% endif %}
           </div>
         </div>
@@ -28,37 +35,6 @@ layout: default
       <div class="col mx-auto">
 
         {{ content }}
-
-        <!-- Home Post List -->
-        {% for post in site.posts limit : 5 %}
-
-          <article class="post-preview">
-<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' | absolute_url }}">
-              <h2 class="post-title">{{ post.title }}</h2>
-              {% if post.subtitle %}
-                <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-              {% else %}
-                <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-              {% endif %}
-            </a>
-            <p class="post-meta">Posted by
-              {% if post.author %}
-                {{ post.author }}
-              {% else %}
-                {{ site.author }}
-              {% endif %}
-              on
-              {{ post.date | date: '%B %d, %Y' }}</p>
-          </article>
-
-          <hr>
-
-        {% endfor %}
-
-        <!-- Pager -->
-        <div class="clearfix">
-<a class="btn btn-primary float-right" href="{{"posts" | absolute_url }}">View All Posts &rarr;</a>
-        </div>
 
       </div>
     </div>
