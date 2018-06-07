@@ -17,8 +17,8 @@ title: Bảo Nguyên's Blogs
 email: baonguyenyam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tôi là Bảo Nguyên hiện là Full-Stack Developer tại nhiều công ty Nhật, USA, Singapore... Tôi cũng là giảng viên tại FPT.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "./" # the subpath of your site, e.g. /blog
+url: "https://baonguyenyam.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: baonguyenyam
 github_username:  baonguyenyam
 
