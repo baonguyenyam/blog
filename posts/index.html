@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Posts
-background: './img/bg-post.jpg'
+background: 'https://baonguyenyam.github.io/blog/img/bg-post.jpg'
 ---
 
 {% for post in paginator.posts %}
 
   <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' | absolute_url }}">
       <h2 class="post-title">{{ post.title }}</h2>
       {% if post.subtitle %}
       <h3 class="post-subtitle">{{ post.subtitle }}</h3>
@@ -34,11 +34,14 @@ background: './img/bg-post.jpg'
   <div class="clearfix">
 
     {% if paginator.previous_page %}
-      <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer<span class="d-none d-md-inline"> Posts</span></a>
+<a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' | absolute_url }}">&larr; Newer
+  <span class="d-none d-md-inline"> Posts</span>
+</a>
     {% endif %}
 
     {% if paginator.next_page %}
-      <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
+<a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' | absolute_url }}">Older
+  <span class="d-none d-md-inline"> Posts</span> &rarr;</a>
     {% endif %}
 
   </div>

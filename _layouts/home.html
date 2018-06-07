@@ -33,7 +33,7 @@ layout: default
         {% for post in site.posts limit : 5 %}
 
           <article class="post-preview">
-            <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' | absolute_url }}">
               <h2 class="post-title">{{ post.title }}</h2>
               {% if post.subtitle %}
                 <h3 class="post-subtitle">{{ post.subtitle }}</h3>
@@ -57,7 +57,7 @@ layout: default
 
         <!-- Pager -->
         <div class="clearfix">
-<a class="btn btn-primary float-right" href="{{" /posts " | absolute_url }}">View All Posts &rarr;</a>
+<a class="btn btn-primary float-right" href="{{"posts" | absolute_url }}">View All Posts &rarr;</a>
         </div>
 
       </div>
