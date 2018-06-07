@@ -16,3 +16,21 @@
 		}
 	}
 }
+header.masthead.min {
+	h1{
+		font-size: 36px;
+	}
+	.subheading {
+		font-size: 26px;
+		font-weight: normal;
+		margin: 10px 0;
+		margin-bottom: 0;
+	}
+	.meta{
+		font-size: 1rem;
+		opacity: .8;
+	}
+	.post-heading{
+		padding: 90px 0 30px 0
+	}
+}
