@@ -4,7 +4,7 @@ description:       Tôi là Bảo Nguyên hiện là Full-Stack Developer tại 
 author:            Bao Nguyen
 baseurl:           ""
 url:               "https://baonguyenyam.github.io/blog"
-
+permalink: /404.html
 # Social Profiles
 channel_username:  baonguyenyam
 github_username:   baonguyenyam
