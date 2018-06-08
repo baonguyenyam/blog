@@ -31,3 +31,10 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-minifier
+jekyll_admin:
+  hidden_links:
+    # - posts
+    # - pages
+    # - staticfiles
+    # - datafiles
+    # - configuration
