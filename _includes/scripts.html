@@ -1,14 +1,21 @@
 <script src="{{"/assets/vendor/jquery/jquery.min.js" | absolute_url }}"></script>
 <script src="{{"/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" | absolute_url }}"></script>
-<script src="{{"/assets/vendor/startbootstrap-clean-blog/js/clean-blog.min.js" | absolute_url }}"></script>
+<script src="{{"/assets/vendor/khoai-blog/js/clean-blog.min.js" | absolute_url }}"></script>
 
 <script src="{{"/assets/scripts.js" | absolute_url }}"></script>
-
+<script>
+  $(function () {
+      var fonts = 'https://fonts.googleapis.com/css?family=Montserrat:300,300italic,400,400italic,700,700italic|Lato:300,300italic,400,400italic,700,700italic';
+      if (document.createStyleSheet) document.createStyleSheet(fonts);
+      else $("head").append($("<link rel='stylesheet' href='" + fonts + "' type='text/css' media='screen' />"));
+    });
+</script>
 {% if page.url contains 'contact' %}
   <!-- Form Validation -->
-  <script src="{{"/assets/vendor/startbootstrap-clean-blog/js/jqBootstrapValidation.js" | absolute_url }}"></script>
+  <script src="{{"/assets/vendor/khoai-blog/js/jqBootstrapValidation.js" | absolute_url }}"></script>
   <!-- Send Form -->
   <script>
+    
     $(function () {
 
       $("#contactForm input,#contactForm textarea").jqBootstrapValidation({

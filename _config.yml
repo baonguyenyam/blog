@@ -14,7 +14,14 @@ sass:
   add_charset: true
   sass_dir: _sass
   style: :compressed
-  
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
 # Build settings
 markdown:          kramdown
 paginate:          5
