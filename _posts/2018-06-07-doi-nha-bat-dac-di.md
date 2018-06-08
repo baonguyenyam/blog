@@ -2,7 +2,7 @@
 layout: post-single
 title: "Dời nhà bất đắc dĩ"
 subtitle: "Không chỉ điện thoại Nokia, danh sách những công ty chết thảm sau khi về tay Microsoft còn có Hotmail, WebTV, aQuantive."
-date:  2018-06-06 10:45:13 -0400
+date:  2018-06-07 10:45:13 -0400
 background: null 
 ---
 
