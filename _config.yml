@@ -36,5 +36,25 @@ jekyll_admin:
     # - posts
     # - pages
     # - staticfiles
-    # - datafiles
-    # - configuration
+    - datafiles
+    - configuration
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post-single
+      title: ""
+      subtitle: ""
+      date:  2018-06-07 10:45:13 -0400
+      background: null 
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      title: ""
+      description: ""
+      background: null 
