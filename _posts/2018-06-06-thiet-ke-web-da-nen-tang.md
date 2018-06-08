@@ -6,11 +6,11 @@ date:  2018-06-06 10:45:13 -0400
 background: null 
 ---
 
-**Hướng dẫn:** Bảo Nguyên
-**Email:** baonguyenyam [at] gmail [dot] com
-**Web:** baonguyenyam.github.io/fpt || baonguyenyam.github.io/editor
-**Điện thoại:** 0 96 96 89 89 3 - 0 933 112 900  
-**Phiên bản:** 2.0.6
+**Hướng dẫn:** Bảo Nguyên<br/>
+**Email:** baonguyenyam [at] gmail [dot] com<br/>
+**Web:** baonguyenyam.github.io/fpt || baonguyenyam.github.io/editor<br/>
+**Điện thoại:** 0 96 96 89 89 3 - 0 933 112 900  <br/>
+**Phiên bản:** 2.0.6<br/>
 
 # Nội dung
 
