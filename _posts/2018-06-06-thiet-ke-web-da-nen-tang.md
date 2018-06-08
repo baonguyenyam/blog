@@ -22,7 +22,7 @@ Trong phần này ta sẽ tìm hiểu về những qui chuẩn từ cơ bản đ
 * 4 Icon trong thiết kế
 * 5 Hình ảnh trong thiết kế 
 * 6 Lưới 
-* 7 Các lỗi trên lưới
+* 7 Các lỗi trên lưới của Bootstrap 
 * 8 Bất đồng bộ và UI/UX
 * 9 Behavior
 * 10 XD và PS
