@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jekyll-theme-clean-blog (4.0.0.1)
+    baonguyenyam-blog (4.0.0.1)
       jekyll (~> 3.6)
 
 GEM
@@ -75,7 +75,7 @@ DEPENDENCIES
   jekyll-minifier
   jekyll-paginate (~> 1.1.0)
   jekyll-seo-tag
-  jekyll-theme-clean-blog!
+  baonguyenyam-blog!
   rake (~> 10.0)
 
 BUNDLED WITH
