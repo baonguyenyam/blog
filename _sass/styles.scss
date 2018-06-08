@@ -9,10 +9,21 @@
 		align-items: center;
 		justify-content: center;
 		.page-heading{
-			padding: 0;
+			padding: 120px 0 0 0;
+			height: 100%;
+			overflow-y: scroll;
+			h1{
+				font-size: 36px;
+			}
 			a{
 				text-decoration: none;
 			}
+		}
+		.subheading {
+			font-size: 18px;
+			font-weight: normal;
+			margin: 10px 0;
+			margin-bottom: 0;
 		}
 	}
 }
