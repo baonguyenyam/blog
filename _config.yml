@@ -47,7 +47,7 @@ defaults:
       layout: post-single
       title: "Name"
       subtitle: "Sub"
-      date:  "2018-06-07 10:45:13 -0400"
+      date: "2018-06-07 10:45:13 -0400"
       background: null
   -
     scope:
