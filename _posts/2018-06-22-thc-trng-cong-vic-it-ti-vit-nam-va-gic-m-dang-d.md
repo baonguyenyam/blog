@@ -3,7 +3,7 @@ title: Thực trạng công việc IT tại Việt Nam và những giấc mơ c�
 layout: post-single
 subtitle: Những thăng hoa cũng như thăng trầm mà không phải lúc nào ngành IT cũng
   tươi sáng như một số người đang lầm tưởng
-date: '2018-06-22 21:45:13'
+date: '2018-06-21 21:45:13'
 background: https://raw.githubusercontent.com/baonguyenyam/blog/master/img/8b40578a6df0529838ff1cc95992ce8335747ccd_1_690x421.jpg
 ---
 
@@ -57,7 +57,7 @@ Riêng với những doanh nghiệp Châu Âu hay Singapore thì ít ra tính mi
 
 #### Giảm lương 
 
-Điều này không là việc mới mẻ, đó là việc bạn sẽ được yêu doanh nghiệp cầu deal lại lương sau 2 tháng thử việc cam go nó đến một phần từ năng lực thực sự của bạn không đáp ứng nổi yêu cầu của doanh nghiệp nhưng cũng có khi nó là một "qui trình" trói chân khi bạn đã vào thế đã rồi.
+Điều này không là việc mới mẻ, đó là việc bạn sẽ được doanh nghiệp yêu cầu deal lại lương sau 2 tháng thử việc cam go nó đến một phần từ năng lực thực sự của bạn không đáp ứng nổi yêu cầu của doanh nghiệp nhưng cũng có khi nó là một "qui trình" trói chân khi bạn đã vào thế đã rồi.
 
 #### Kiêm nhiệm
 
