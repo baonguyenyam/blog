@@ -4,7 +4,7 @@ layout: post-single
 subtitle: Những thăng hoa cũng như thăng trầm mà không phải lúc nào ngành IT cũng
   tươi sáng như một số người đang lầm tưởng
 date: '2018-06-22 21:45:13'
-background: null
+background: https://raw.githubusercontent.com/baonguyenyam/blog/master/img/8b40578a6df0529838ff1cc95992ce8335747ccd_1_690x421.jpg
 ---
 
 Chào qúy vị!
@@ -34,6 +34,8 @@ Rồi việc thu nhập ngành IT hấp dẫn cùng với việc đào tạo vô
 - Họ vào Việt Nam chỉ đơn giản một lý do là nhân công rẻ, rẻ đến mức lương CNTT $500 cho một anh được đào tạo bài bản đã là quí rồi, nói xin lỗi bạn đừng buồn chứ mức đấy chưa bằng 1/6 của một người dũa nails tại Mỹ, và nó ngày càng thấp hơn khi mà "lực lượng" IT thất nghiệp hùng hậu của Việt Nam ngày càng nhiều, trả nhiêu cũng làm... dần đà kéo thu nhập của cả ngành xuống mức tệ hại.
 - Thêm nhiều lý do "nhạy cảm" khác mà vài năm đổ lại đây nhiều nhà đầu tư nước ngoài đã dời văn phòng về các nước như Campuchia, Malaysia... để "dễ thở" và có mức thu nhập bình quân thấp hơn Việt Nam
 - Các hệ thống giáo dục Việt Nam đã để tư duy đổi mới phía sau lợi nhuận dẫn đến công nghệ giảng dạy lạc hậu đến mức 80% thất nghiệp cũng như phải đào tạo lại khiến các doanh nghiệp gặp nhiều khó khăn trong kế hoạch phát triển bền vững.
+
+![https://raw.githubusercontent.com/baonguyenyam/blog/master/img/8b40578a6df0529838ff1cc95992ce8335747ccd_1_690x421.jpg](https://raw.githubusercontent.com/baonguyenyam/blog/master/img/8b40578a6df0529838ff1cc95992ce8335747ccd_1_690x421.jpg)
 
 Cũng cần nói thêm là chi phí sinh hoạt tại Việt Nam ngày càng đắt đỏ so với thu nhập người dân, nhiều loại phí, thuế phát sinh cũng với các phúc lợi được cắt bỏ rất nhiều và người lao động trung bình ngành IT khó lòng tiếp cận được cuộc sống thoải mái khi hoạt động lâu dài được, việc bỏ ngành tìm lối đi khác cũng là thực trạng cần nhìn nhận, bạn phải đồng ý với tôi là một xe bánh mì thu nhập mỗi tháng trên dưới $700 mà không phải chịu bất kỳ loại thuế nào nó cao hơn hẳn một anh IT trung bình với 2 năm kinh nghiệm đấy.
 
@@ -93,4 +95,4 @@ Nếu muốn giấc mơ thành hiện thực tôi hi vọng mọi người hãy 
 
 Tại hạ viết bài này không phải khiến bạn có cái nhìn tiêu cực về ngành IT mà là nói lên góc khuất mà ít hệ thống giáo dục IT nào hay doanh nghiệp nào dám thừa nhận và chia sẻ, IT sẽ mang đến thăng trầm cho những ai ù lì ít chịu khó tìm tòi chỉ dựa vào những lời đồn đoán và tự mãn hão huyền nhưng nó sẽ mang đến cho bạn sự thích thú, thăng hoa khi bạn đổ hết nhiệt huyết và đam mê vào nó, nó không có chỗ đứng cho sự tèn tèn, bỏ mặc thế sự... nên nhớ IT là một cô gái xinh đẹp và cần được nuông chiều đúng mực. 
 
-Đừng bỏ bê nó!
+Đừng bỏ bê nó!!!
