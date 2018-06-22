@@ -3,7 +3,7 @@ title: Thực trạng công việc IT tại Việt Nam và những giấc mơ c�
 layout: post-single
 subtitle: Những thăng hoa cũng như thăng trầm mà không phải lúc nào ngành IT cũng
   tươi sáng như một số người đang lầm tưởng
-date: '2018-06-22 21:45:13'
+date: '2018-06-22 12:45:13'
 background: https://raw.githubusercontent.com/baonguyenyam/blog/master/img/8b40578a6df0529838ff1cc95992ce8335747ccd_1_690x421.jpg
 ---
 
