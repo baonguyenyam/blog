@@ -30,7 +30,24 @@ layout: default
   <div class="row">
     <div class="col mx-auto">
 
-      {{ content }}
+      <div class="row">
+        <div class="col">
+          {{ content }}
+        </div>
+        <div class="col-lg-3">
+          <h3 class="mt-4">Bài viết khác</h3>
+           {% assign maxRelated = 10 %} {% assign maxRelatedCounter = 0 %} {% for post in site.posts %}
+          
+          <p>
+            <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' | absolute_url }}">
+              {{ post.title }}
+            </a>
+          </p>
+          
+          <hr> {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %} {% if maxRelatedCounter >= maxRelated %} {% break %} {% endif
+          %} {% endfor %}
+        </div>
+      </div>
 
       
       <hr>
