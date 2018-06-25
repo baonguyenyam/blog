@@ -21,7 +21,7 @@ Dưới đây là một vài ví dụ cơ bản:
 
 ```sass
 .sample-0
-  +pad(5px 'calc(100% - 4px)_' null 0) 
+  +mar(5px 'calc(100% - 4px)_' null 0) 
 ```
 
 #### Kết quả 
