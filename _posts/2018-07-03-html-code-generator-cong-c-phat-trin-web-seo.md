@@ -17,6 +17,6 @@ Bao gồm:
 - Tạo mã HTML 
 - Improve SEO 
 
-[Demo](https://canhcamhtml.herokuapp.com)
+[Demo](https://canhcam-html.herokuapp.com/)
 
 [Source Code](https://github.com/baonguyenyam/html-code-tool)
