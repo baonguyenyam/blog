@@ -32,9 +32,9 @@ $(function () {
 	}
 });
 $(document).ready(function () {
-	if (getUrlParameter('key')) {
+	if (getUrlParameter('key') !== 'undefined' && getUrlParameter('key').length > 0) {
 		$('#v-pills-profile-tab').trigger('click');
-		$('#cipherTextInput').val(getUrlParameter('key'));
+		$('#cipherTextInput').val(getUrlParameter('key').replace(/ /g, "+"));
 	}
 	// $("#dec").hide();
 	// $("#specs").hide();
