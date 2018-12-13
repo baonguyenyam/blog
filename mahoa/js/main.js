@@ -50,7 +50,7 @@ $(document).ready(function () {
 		$("#menuSpecs").addClass("selected");
 	});
 	$('#encrypt').click(function () {
-		var clearTextText = $("#clearTextInput").val();
+		var clearTextText = removeVietnam($("#clearTextInput").val());
 		var keyText = $("#key").val();
 		if (clearTextText.length === 0 || keyText.length === 0) {
 			return;
@@ -85,6 +85,29 @@ $(document).ready(function () {
 		$('#key').attr('type', 'text');
 	});
 });
+
+function removeVietnam(s) {
+	var r = s;
+	var non_asciis = {
+		// '-': '[`~!@#$%^&*()_|+=?;:",.<>/]',
+		'a': '[ảàạảãàáâãäåắặẳằẵấầẩẫậâă]',
+		'ae': 'æ',
+		'c': 'ç',
+		'e': '[èéẹẽẻềệếểễê]',
+		'd': '[đ]',
+		'i': '[ìíîïị]',
+		'n': 'ñ',
+		'o': '[òóôõöộồốổỗơởợỡờớôơ]',
+		'oe': 'œ',
+		'u': '[ùúûűüủụưửựứừữư]',
+		'y': '[ýỳỷỵỹ]'
+	};
+	for (var i in non_asciis) {
+		r = r.replace(new RegExp(non_asciis[i], 'gi'), i);
+	}
+	// r = r.replace(/[^\w\s]/gi, '-')
+	return r;
+};
 
 function makeid(e) {
 	var text = "";
