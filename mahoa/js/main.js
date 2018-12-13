@@ -92,7 +92,7 @@ $(document).ready(function () {
 
 function getUrlParameter(param, dummyPath) {
 	var sPageURL = dummyPath || window.location.search.substring(1),
-	    sURLVariables = sPageURL.replace(/%2C/g, ",").split(/[&||?]/),
+	    sURLVariables = sPageURL.replace(/%2C/g, ",").replace(/%3D/g, "@#").split(/[&||?]/),
 	    res;
 	for (var i = 0; i < sURLVariables.length; i += 1) {
 		var paramName = sURLVariables[i],
@@ -103,7 +103,7 @@ function getUrlParameter(param, dummyPath) {
 		}
 	}
 
-	return decodeURIComponent(res);
+	return decodeURIComponent(res).replace(/@#/g, "=");
 }
 
 function removeVietnam(str) {
