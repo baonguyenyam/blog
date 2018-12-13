@@ -73,6 +73,12 @@ $(document).ready(function () {
 			$("#clearTextOutput").val(ASCII.encode(AES.decrypt(cipherText, key)));
 		}
 	});
+	$('#loimat').click(function () {
+		$('#key').attr('type') === 'password' ? $('#key').attr('type', 'text') : $('#key').attr('type', 'password');
+	});
+	$('#mumat').click(function () {
+		$('#key2').attr('type') === 'password' ? $('#key2').attr('type', 'text') : $('#key2').attr('type', 'password');
+	});
 });
 
 //AES
