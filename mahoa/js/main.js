@@ -79,7 +79,21 @@ $(document).ready(function () {
 	$('#mumat').click(function () {
 		$('#key2').attr('type') === 'password' ? $('#key2').attr('type', 'text') : $('#key2').attr('type', 'password');
 	});
+	$('#genkey').click(function () {
+		var m = makeid(10);
+		$('#key').val(m);
+		$('#key').attr('type', 'text');
+	});
 });
+
+function makeid(e) {
+	var text = "";
+	var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+
+	for (var i = 0; i < e; i++) {
+		text += possible.charAt(Math.floor(Math.random() * possible.length));
+	}return text;
+}
 
 //AES
 var AES = {};
