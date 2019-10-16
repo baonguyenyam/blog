@@ -33,7 +33,7 @@ Sự độc đáo và quyến rũ mà Áo Dài mang lại chính là hai tà áo
 
 Nét đẹp Áo Dài không chỉ dừng lại ở sự hấp dẫn trong thiết kế ôm sát mà nó còn chính là cái đẹp của sự tối giản - không cầu kỳ và không cần lắm hoạ tiết Áo Dài vẫn tạo ra được sự cuốn hút vượt thời gian, không gian. Hàng trăm dân tộc trên thế giới luôn bị sự quyến rũ của Áo Dài hấp dẫn: họ khen, họ mặc, họ trân trọng nó là điều không thể chối cãi được.  
 
-Đi suốt hàng trăm năm của sự tiến hóa và phát triển Áo Dài Việt Nam đã để lại cho đời những gì? là những thứ "thanh khiết, dịu dàng" hay là sự "lố lăng, bỡn cợt" thì đó là điều do chính chúng ta "tạo dựng" và "ban phát" cho chúng. Bởi lẽ Áo Dài nó vô tri và vô hồn vô tội lắm.
+Đi suốt hàng trăm năm của sự tiến hóa và phát triển Áo Dài Việt Nam đã để lại cho đời những gì? là những thứ "thanh khiết, dịu dàng" hay là sự "lố lăng, bỡn cợt" thì đó là điều do chính chúng ta "tạo dựng" và "ban phát" cho chúng. Bởi lẽ Áo Dài nó vô tri - vô hồn  và vô tội lắm.
 
 **Ai dạy cho Ai?**
 
