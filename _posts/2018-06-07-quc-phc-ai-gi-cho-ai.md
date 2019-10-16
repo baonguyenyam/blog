@@ -90,9 +90,9 @@ Nếu có dịp sống xa quê hương bạn mới cảm nhận được sự th
 
 Tôi lại chợt nhớ vài câu của Vũ Thành An: 
 
-Đếm cho em giây phút mặn nồng
-Giữ cho em mái tóc bồng
-Lời anh nói sẽ còn mãi đấy
+Đếm cho em giây phút mặn nồng<br>
+Giữ cho em mái tóc bồng<br>
+Lời anh nói sẽ còn mãi đấy<br>
 Chuyện mai sau xin gửi trên tay
 
 Chuyện Áo Dài là chuyện trên tay người Việt mình vậy!
