@@ -56,7 +56,7 @@ Nói vậy để hiểu được rằng "dăng hóa" Áo Dài mà người ngo�
 ![](https://baonguyenyam.github.io/blog/img/2019-10-16_083342.png)
 <br>... đến cả sinh viên
 
-Chúng ta đang chế tạo ra một thời đại "áo dày" hay là đang cách tân "Áo Dài"? Hai chữ "cách tân" đó đang bị lạm dụng và hiểu sai đến lệch lạc. Nên tóm lại chúng ta đang dạy đang phổ biến cho mọi người những cách ăn mặc "lố lăng - bỡn cợt" đó thì hà có gì lại trách người không tôn trọng Quốc phục của ta như vậy?
+Chúng ta đang chế tạo ra một thời đại "áo dày" hay là đang cách tân "Áo Dài"? Hai chữ "cách tân" đó đang bị lạm dụng và hiểu sai đến lệch lạc. Nên tóm lại chúng ta đang dạy, đang phổ biến cho mọi người những cách ăn mặc "đẹp đẽ" đó... thì hà cớ gì lại trách người không tôn trọng Quốc phục của ta như vậy?
 
 "Tiên trách kỷ - Hậu trách nhân" thôi quý vị ạ. 
 
