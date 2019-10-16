@@ -62,7 +62,7 @@ Chúng ta đang chế tạo ra một thời đại "áo dày" hay là đang các
 
 **Ai giữ cho Ai?**
 
-Quốc phục là trang phục của một quốc gia nên việc gìn giữ và phát triển nó là chuyện và trách nhiệm của quốc gia đó. Không ai rảnh rỗi cứ hể sắp khoác một bộ đồ lạ nào lên mình phải bật Google tìm hiểu Quốc phục, văn hóa của nước đó cả. Họ thích gì họ mặc đó, họ tìm thấy những hình ảnh đó trên mạng thì việc họ trang phục cho mình không ai cấm cản được huống hồ ở một thế giới "loạn lạc" về trang phục như bây giờ thì việc "ráp-nối" mà cho là "giao thoa" là điều đang diễn ra hằng ngày và khó kiểm soát được. 
+Quốc phục là trang phục của một quốc gia nên việc gìn giữ và phát triển nó là chuyện và trách nhiệm của quốc gia đó. Không ai rảnh rỗi cứ hễ sắp khoác một bộ đồ lạ nào lên mình phải bật Google tìm hiểu Quốc phục, văn hóa của nước đó cả. Họ thích gì họ mặc đó, họ tìm thấy những hình ảnh đó trên mạng thì việc họ trang phục cho mình không ai cấm cản được huống hồ ở một thế giới "loạn lạc" về trang phục như bây giờ thì việc "ráp-nối" mà cho là "giao thoa" là điều đang diễn ra hằng ngày và khó kiểm soát được. 
 
 ![](https://baonguyenyam.github.io/blog/img/393.jpg)
 <br>Hay người chuyển giới
