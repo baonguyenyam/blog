@@ -6,7 +6,7 @@ subtitle: Đi suốt hàng trăm năm của sự tiến hóa và phát triển �
   cợt" thì đó là điều do chính chúng ta "tạo dựng" và "ban phát" cho chúng. Bởi lẽ
   Áo Dài nó vô tri và vô hồn vô tội lắm.
 date: '2019-10-16 09:45:13'
-background: null
+background: https://baonguyenyam.github.io/blog/img/Du-lich-kham-pha-sai-gon-xua-mytour-14.jpg
 ---
 
 Từng ngây ngất trong nét đẹp dịu dàng của tà Áo Dài quyến rũ nhà thơ Nguyên Sa phải thốt lên rằng:
