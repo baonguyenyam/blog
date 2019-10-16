@@ -83,3 +83,16 @@ Tôi không bênh vực, cổ xúy cho những người ngoại quốc đang vô
 <br>Ảnh thường ngày của học sinh Việt Nam
 
 ![](https://baonguyenyam.github.io/blog/img/1436975553-eieyquynh_imuv.jpg)
+
+Nhiều trường phổ thông muốn bỏ trang phục Áo Dài của nữ sinh chỉ vì lý do tốn kém, rườm rà và khó sinh hoạt. Đây thực sự cũng là một điều đáng tiếc vì lẽ một số em vùng xa hay vùng lạnh khi diện bộ Áo Dài đúng là cũng lắm "bất tiện" thật. Nhưng điều đó không nên xảy ra ở những nơi đủ điều kiện và đáng phải gìn giữ. Tôi biết có những nơi công ty tư nhân thôi họ vẫn khuyến khích nhân viên mình diện bộ áo dài vào ngày cuối tuần quý vị ạ dù không là nhất thiết phải bận nhưng ai nấy đều phấn khởi lắm, vì niềm tự hào và vì chúng ta là người Việt...
+
+Nếu có dịp sống xa quê hương bạn mới cảm nhận được sự thiêng liêng của Áo Dài và tình cảm quý mến mà mọi người dành cho nó, không chỉ có người Việt xa xứ thôi mà ngay cả người ngoại quốc họ cũng muốn được thấy mình trong bộ trang phục rất Việt đó. Người Việt tại hải ngoại luôn diện Áo Dài trong mọi sự kiện và không quên dạy con cháu mình gìn giữ nét đẹp truyền thống của ông cha. Thôi thì bỏ qua cái bọn Showbiz rẻ tiền đó đi hãy gìn giữ những điều đáng giữ đừng học đòi theo những "sáng tạo" kém cỏi của họ. "Nói ra sợ mất lòng em, Van em em hãy giữ nguyên quê mùa" em nhé!
+
+Tôi lại chợt nhớ vài câu của Vũ Thành An: 
+
+Đếm cho em giây phút mặn nồng
+Giữ cho em mái tóc bồng
+Lời anh nói sẽ còn mãi đấy
+Chuyện mai sau xin gửi trên tay
+
+Chuyện Áo Dài là chuyện trên tay người Việt mình vậy!
