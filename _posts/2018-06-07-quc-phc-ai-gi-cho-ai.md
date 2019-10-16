@@ -67,10 +67,12 @@ Quốc phục là trang phục của một quốc gia nên việc gìn giữ và
 ![](https://baonguyenyam.github.io/blog/img/393.jpg)
 <br>Hay người chuyển giới
 
-Mặt khác chúng ta hay nhìn thấy cây chà trong mắt người mà không thấy nổi cây đà trong mắt mình khi mà mình hay đem những Quốc phục, truyền thống của dân tộc khác ra bỡn cợt bông đùa. Xin đừng tự cho mình cao quý. 
+Mặt khác chúng ta hay nhìn thấy cây chà trong mắt người mà không thấy nổi cây đà trong mắt mình khi mà mình cũng hay đem những Quốc phục, truyền thống của dân tộc khác ra bỡn cợt bông đùa. Đừng tự cho mình cao quý. 
 
 Bắt phong trần phải phong trần<br>
 Cho thanh cao mới được phần thanh cao.
+
+![](https://baonguyenyam.github.io/blog/img/bb-tran-2_20190524152803.jpg)
 
 Tôi không bênh vực, cổ xúy cho những người ngoại quốc đang vô tình hay cố ý phá hoại văn hóa và Quốc phục của Việt Nam vì lẽ họ chỉ là thiểu số và không đại diện cho quốc gia hay dân tộc Việt Nam được, mà hãy nhìn vào những người VIệt đang báng bổ và làm băng hoại văn hóa Việt mới là điều đáng nói. Những người đang sống một cuộc sống của công chúng và ít nhiều họ đang đại điện cho cái nhìn về Việt Nam lại có những phát ngôn ngu xuẩn và ăn mặc tởm lợm thì họ có tư cách gì để đi dạy người ngoại quốc về Văn hóa của nước Việt nhỉ?
 
